@@ -1,0 +1,1 @@
+Benchmark for memory consumption between MediatR and dependency injection service lifetimes gives the following result:

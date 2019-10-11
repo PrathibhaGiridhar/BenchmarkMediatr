@@ -1,0 +1,3 @@
+dotnet run --project .\WepApp\WepApp.csproj -c Release
+
+dotnet run --project .\BenchmarkMediatr\BenchmarkMediatr.csproj -c Release
